@@ -84,7 +84,7 @@
                             class="sapUiTinyMarginEnd"/>
                         
                         <Button
-                            text="Apply Filters"
+                            text="Go"
                             type="Emphasized"
                             press="onApplyAnalystFilters"
                             class="sapUiTinyMarginEnd"/>

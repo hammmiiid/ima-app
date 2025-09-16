@@ -35,7 +35,7 @@
                             <Select id="plantFilter" width="180px" class="sapUiTinyMarginEnd">
                                 <core:Item key="" text="All Plants"/>
                             </Select>
-                            <Button text="Apply Filters" type="Emphasized" press="onApplyFilters" class="sapUiTinyMarginEnd"/>
+                            <Button text="Go" type="Emphasized" press="onApplyFilters" class="sapUiTinyMarginEnd"/>
                             <Button text="Clear Filters" press="onClearFilters" class="sapUiTinyMarginEnd"/>
                         </l:content>
                     </l:HorizontalLayout>
